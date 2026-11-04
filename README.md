@@ -15,6 +15,7 @@ Day to day I build web applications with **React**, **Next.js** and **TypeScript
 | CI/CD and developer experience | GitHub Actions, GitLab CI, Git hooks, automated checks, project standards |
 | AI-assisted development | Claude Code for code review, refactoring, debugging and documentation |
 | Back-end | Node.js, NestJS, Express, Go, Python, Java, PostgreSQL, MongoDB |
+| Mobile and desktop | Swift and SwiftUI (macOS), Capacitor (iOS) |
 
 ## Stack
 
@@ -22,9 +23,9 @@ Day to day I build web applications with **React**, **Next.js** and **TypeScript
 
 <img height="48" alt="TypeScript, JavaScript, React, Next.js, Vite, Material UI, Tailwind CSS, Sass, HTML, CSS" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,materialui,tailwind,sass,html,css">
 
-**Back-end and data**
+**Back-end, mobile and data**
 
-<img height="48" alt="Node.js, NestJS, Express, Go, Python, Java, PostgreSQL, MongoDB, Prisma, Supabase" src="https://skillicons.dev/icons?i=nodejs,nestjs,express,go,python,java,postgres,mongodb,prisma,supabase">
+<img height="48" alt="Node.js, NestJS, Express, Go, Python, Java, Swift, PostgreSQL, MongoDB, Prisma, Supabase" src="https://skillicons.dev/icons?i=nodejs,nestjs,express,go,python,java,swift,postgres,mongodb,prisma,supabase">
 
 **Testing, tooling and AI**
 
@@ -35,15 +36,9 @@ Day to day I build web applications with **React**, **Next.js** and **TypeScript
 - Postgraduate degree in Full Stack Development, PUCRS
 - Systems Analysis and Development, USJ / UniCesumar
 
-## GitHub stats
+## Languages on GitHub
 
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-pi-38.vercel.app/api?username=LucianoGalvao&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=00000000">
-    <img height="165" alt="GitHub stats for Luciano Galvão" src="https://github-readme-stats-ten-pi-38.vercel.app/api?username=LucianoGalvao&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-pi-38.vercel.app/api/top-langs/?username=LucianoGalvao&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=00000000">
-    <img height="165" alt="Most used languages" src="https://github-readme-stats-ten-pi-38.vercel.app/api/top-langs/?username=LucianoGalvao&layout=compact&langs_count=6&hide_border=true&bg_color=00000000">
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-pi-38.vercel.app/api/top-langs/?username=LucianoGalvao&layout=compact&langs_count=8&hide_border=true&disable_animations=true&card_width=400&bg_color=00000000&theme=dark">
+  <img alt="Most used languages in my repositories" src="https://github-readme-stats-ten-pi-38.vercel.app/api/top-langs/?username=LucianoGalvao&layout=compact&langs_count=8&hide_border=true&disable_animations=true&card_width=400&bg_color=00000000">
+</picture>
