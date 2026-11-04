@@ -36,9 +36,15 @@ Day to day I build web applications with **React**, **Next.js** and **TypeScript
 - Postgraduate degree in Full Stack Development, PUCRS
 - Systems Analysis and Development, USJ / UniCesumar
 
-## Languages on GitHub
+## GitHub stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-pi-38.vercel.app/api/top-langs/?username=LucianoGalvao&layout=compact&langs_count=8&hide_border=true&disable_animations=true&card_width=400&bg_color=00000000&theme=dark">
-  <img alt="Most used languages in my repositories" src="https://github-readme-stats-ten-pi-38.vercel.app/api/top-langs/?username=LucianoGalvao&layout=compact&langs_count=8&hide_border=true&disable_animations=true&card_width=400&bg_color=00000000">
-</picture>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-pi-38.vercel.app/api?username=LucianoGalvao&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&disable_animations=true&bg_color=00000000&theme=dark">
+    <img height="165" alt="GitHub stats for Luciano Galvão" src="https://github-readme-stats-ten-pi-38.vercel.app/api?username=LucianoGalvao&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&disable_animations=true&bg_color=00000000">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-pi-38.vercel.app/api/top-langs/?username=LucianoGalvao&layout=compact&langs_count=8&hide_border=true&disable_animations=true&bg_color=00000000&theme=dark">
+    <img height="165" alt="Most used languages in my repositories" src="https://github-readme-stats-ten-pi-38.vercel.app/api/top-langs/?username=LucianoGalvao&layout=compact&langs_count=8&hide_border=true&disable_animations=true&bg_color=00000000">
+  </picture>
+</p>
