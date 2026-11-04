@@ -4,7 +4,7 @@ Software engineer based in São Paulo, Brazil. At **Intelbras** I'm the technica
 
 Day to day I build web applications with **React**, **Next.js** and **TypeScript**, and I care a lot about what keeps them healthy over time: tests, static analysis, security and automated quality gates in CI. Outside work I also write back ends in Node.js and Go.
 
-[Website](https://lucianogalvao.dev) · [LinkedIn](https://www.linkedin.com/in/lucianogalvaao/) · [Email](mailto:luciano.g.galvaao@gmail.com) · [Instagram](https://instagram.com/lucianogalvaao)
+[Website](https://lucianogalvao.dev) · [LinkedIn](https://www.linkedin.com/in/lucianogalvaao/) · [Email](mailto:luciano.g.galvaao@gmail.com)
 
 ## What I work on
 
